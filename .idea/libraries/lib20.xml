@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib20">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/76_dash-framework/lib/dash-aspects.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/76_dash-framework/lib/aspectjweaver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/76_dash-framework/lib/aspectjtools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/76_dash-framework/lib/aspectjlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/76_dash-framework/lib/aspectjrt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

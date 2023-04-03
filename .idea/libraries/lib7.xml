@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/77_io-project/lib/slf4j-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/77_io-project/lib/mina-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/77_io-project/lib/slf4j-simple.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/77_io-project/lib/jsap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

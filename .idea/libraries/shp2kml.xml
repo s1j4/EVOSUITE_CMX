@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="shp2kml">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/53_shp2kml/shp2kml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

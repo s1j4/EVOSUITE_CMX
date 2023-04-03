@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lilith">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lilith.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="lib72">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/bsh.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/findbugs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/postgresql.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/xalan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/RXTXcomm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/jhall.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/jfor.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/gnujaxp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/jython.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/batik.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/JFontChooser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/smoothmetal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/log4j-1.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/crimson.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/comm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/jh.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/jlfgr-1_0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/avalon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/fop.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/itext-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/bcel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/ftp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/saxon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/lib/kawa.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

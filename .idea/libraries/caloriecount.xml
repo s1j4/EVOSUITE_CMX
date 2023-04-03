@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="caloriecount">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/78_caloriecount/caloriecount.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

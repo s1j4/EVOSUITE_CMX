@@ -1,0 +1,72 @@
+<component name="libraryTable">
+  <library name="lib32">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/jcl-over-slf4j-1.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/logback-core-0.9.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.3rdparty.macify-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.sulky.buffers-0.9.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.sulky.3rdparty.jlayer-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.sulky.codec-0.9.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.engine-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.sulky.codec.filebuffer-0.9.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.data.logging.protobuf-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.sender-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.sulky.sounds-impl-jlayer-0.9.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.logback.appender.multiplex-core-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/commons-codec-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/ant-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.data.logging-xml-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.sulky.junit-0.9.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.xml-logging-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/jline-0.9.94.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.3rdparty.flyingsaucer.core-renderer-8RC1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.logback.logging-adapter-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/commons-lang-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.sulky.io-0.9.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.sounds-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.data.access.protobuf-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.logback.appender.multiplex-classic-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/stax-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/commons-io-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.sulky.stax-0.9.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.sulky.swing-0.9.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.jul-slf4j-handler-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/servlet-api-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/groovy-1.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.sulky.conditions-0.9.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.logback.access-adapter-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/looks-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.sulky.generics-0.9.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.logback.classic-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.sulky.sounds-api-0.9.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/slf4j-api-1.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/commons-cli-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/stax-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/protobuf-java-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.jul.xml-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.sulky.tasks-0.9.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/ant-launcher-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.data.eventsource-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.sulky.formatting-0.9.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.sulky.logging-0.9.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.logback.event-producers-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.data.access-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/logback-access-0.9.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/asm-all-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/logback-classic-0.9.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.data.logging-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.data.logging-xml-serializer-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/joda-time-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.logback.appender.multiplex-classic-xml-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.data.eventsource-xml-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.3rdparty.jmdns-2.0-patched.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.log4j.xml-0.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.3rdparty.rrd4j-2.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/43_lilith/lib/de.huxhorn.lilith.logback.appender.multiplex-access-0.9.36.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

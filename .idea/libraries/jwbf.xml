@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jwbf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/jwbf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

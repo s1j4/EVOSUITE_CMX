@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="schemaspy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/36_schemaspy/schemaspy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

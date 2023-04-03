@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dsachat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/12_dsachat/dsachat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

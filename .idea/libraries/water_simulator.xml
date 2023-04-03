@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="water-simulator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/10_water-simulator/water-simulator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

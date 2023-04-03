@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib30">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/80_wheelwebtool/lib/xpp3-1.1.4c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/80_wheelwebtool/lib/commons-io-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/80_wheelwebtool/lib/mvel-1.3.2-java1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/80_wheelwebtool/lib/logback-classic-0.9.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/80_wheelwebtool/lib/slf4j-simple-1.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/80_wheelwebtool/lib/commons-fileupload-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/80_wheelwebtool/lib/servlet-api-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/80_wheelwebtool/lib/slf4j-api-1.5.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

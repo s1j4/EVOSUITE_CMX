@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dash-framework">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/76_dash-framework/dash-framework.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

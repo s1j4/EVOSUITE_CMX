@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib52">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/65_gsftp/lib/commons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/65_gsftp/lib/commons-net-1.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

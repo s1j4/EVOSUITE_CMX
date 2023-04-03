@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hft-bomberman">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/57_hft-bomberman/hft-bomberman.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

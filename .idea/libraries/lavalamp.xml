@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lavalamp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/55_lavalamp/lavalamp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

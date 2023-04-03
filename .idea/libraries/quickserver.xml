@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="quickserver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/93_quickserver/quickserver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

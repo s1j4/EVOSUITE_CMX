@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gaj">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/3_gaj/gaj.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

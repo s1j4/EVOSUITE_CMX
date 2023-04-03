@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jgaap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/100_jgaap/jgaap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

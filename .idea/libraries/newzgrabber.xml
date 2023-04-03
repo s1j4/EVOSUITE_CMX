@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="newzgrabber">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/99_newzgrabber/newzgrabber.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

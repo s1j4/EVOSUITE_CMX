@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ifx-framework">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/84_ifx-framework/ifx-framework.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mygrid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/59_mygrid/mygrid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

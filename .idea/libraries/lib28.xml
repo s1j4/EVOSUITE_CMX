@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib28">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/63_objectexplorer/lib/annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/63_objectexplorer/lib/jsr305.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/63_objectexplorer/lib/log4j-1.2.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

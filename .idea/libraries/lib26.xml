@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="lib26">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/55_lavalamp/lib/mockito-core-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/55_lavalamp/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/55_lavalamp/lib/ant-launcher-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/55_lavalamp/lib/jyaml-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/55_lavalamp/lib/commons-codec-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/55_lavalamp/lib/jetty-util-6.1.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/55_lavalamp/lib/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/55_lavalamp/lib/jetty-6.1.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/55_lavalamp/lib/hamcrest-core-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/55_lavalamp/lib/hamcrest-all-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/55_lavalamp/lib/ant-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/55_lavalamp/lib/servlet-api-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/55_lavalamp/lib/servlet-api-2.5-20081211.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/55_lavalamp/lib/objenesis-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/55_lavalamp/lib/jna-3.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

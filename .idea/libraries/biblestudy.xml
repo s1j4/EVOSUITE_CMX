@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="biblestudy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/68_biblestudy/biblestudy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

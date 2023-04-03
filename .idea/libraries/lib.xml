@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/42_asphodel/lib/lucene-core-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/42_asphodel/lib/lucene-highlighter-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/42_asphodel/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/42_asphodel/lib/lucene-analyzers-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/42_asphodel/lib/jericho-html-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/42_asphodel/lib/log4j-1.2.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

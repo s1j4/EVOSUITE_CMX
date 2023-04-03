@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gsftp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/65_gsftp/gsftp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

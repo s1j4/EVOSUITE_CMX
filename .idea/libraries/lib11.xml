@@ -1,0 +1,53 @@
+<component name="libraryTable">
+  <library name="lib11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/crimson-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/jdom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/batik-css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/xalan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/forms-1.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/jakarta-oro.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/JMapViewer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/bindings.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/xercesImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/xml-apis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/batik-squiggle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/batik-swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/pdf-transcoder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/batik-parser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/batik-ext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/js.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/SimplyHTML.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/batik-script.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/batik-dom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/batik-bridge.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/xpp3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/HotEqn.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/serializer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/batik-awt-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/jhall.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/batik-gvt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/xerces_2_5_0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/jortho.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/gnu-regexp-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/batik-transcoder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/muse.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/batik-gui-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/jaxp-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/batik-svg-dom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/batik-xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/JMapViewer_src.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/groovy-all-1.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/batik-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/jibx-run.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/batik-svggen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/AppleJavaExtensions-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/lib/batik-extension.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

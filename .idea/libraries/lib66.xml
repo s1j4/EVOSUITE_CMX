@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib66">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/33_javaviewcontrol/lib/commons-fileupload-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/33_javaviewcontrol/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/33_javaviewcontrol/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/33_javaviewcontrol/lib/pmd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/33_javaviewcontrol/lib/javacc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/33_javaviewcontrol/lib/servlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

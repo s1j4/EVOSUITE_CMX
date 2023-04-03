@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="netweaver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/101_netweaver/netweaver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

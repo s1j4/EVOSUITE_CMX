@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib56">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/84_ifx-framework/lib/poolman.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/84_ifx-framework/lib/xercesImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/84_ifx-framework/lib/velocity-dep-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/84_ifx-framework/lib/jdom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

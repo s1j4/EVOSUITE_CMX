@@ -1,0 +1,45 @@
+<component name="libraryTable">
+  <library name="lib44">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/commons-collections.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/log4j-1.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/spring-hibernate.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/commons-attributes-compiler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/bluepenguin-menu.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/spring-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/commons-fileupload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/commons-discovery.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/hibernate2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/jakarta-oro-2.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/spring-support.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/commons-attributes-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/bsf-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/ehcache-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/emailbl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/commons-codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/commons-validator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/commons-pool.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/spring-context.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/commons-lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/aopalliance.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/commons-digester.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/spring-beans.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/javassist-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/commons-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/ognl-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/commons-beanutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/tapestry-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/commons-httpclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/spring-web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/spring-aop.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/30_bpmail/lib/tapestry-contrib-3.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

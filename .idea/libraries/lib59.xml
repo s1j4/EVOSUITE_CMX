@@ -1,0 +1,43 @@
+<component name="libraryTable">
+  <library name="lib59">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/servlet-api-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/asm-tree-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/easymock-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/retroweaver-2.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/jsr107cache-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/commons-codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/spring-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/ehcache-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/quartz.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/spring.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/jsp-api-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/quartz-1.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/mail-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/easymockclassextension-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/commons-collections-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/asm-util-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/retroweaver-rt-2.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/hsqldb-1.8.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/standard-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/commons-beanutils-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/asm-commons-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/asm-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/backport-util-concurrent-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/lib/cglib-nodep-2.1_3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

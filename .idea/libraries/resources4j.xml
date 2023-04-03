@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="resources4j">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/48_resources4j/resources4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

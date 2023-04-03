@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xbus">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/xbus.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

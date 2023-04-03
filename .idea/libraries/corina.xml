@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="corina">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/35_corina/corina.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

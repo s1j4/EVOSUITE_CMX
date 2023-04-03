@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="twfbplayer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/79_twfbplayer/twfbplayer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

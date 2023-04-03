@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="lib23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/16_templatedetails/lib/jaxen-core-1.0-FCS.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/16_templatedetails/lib/ant-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/16_templatedetails/lib/xercesImpl-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/16_templatedetails/lib/ant-launcher-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/16_templatedetails/lib/jdom-1.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/16_templatedetails/lib/jdom-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/16_templatedetails/lib/xmlParserAPIs-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/16_templatedetails/lib/jaxen-jdom-1.0-FCS.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/16_templatedetails/lib/jdom-1.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/16_templatedetails/lib/ant-testutil-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/16_templatedetails/lib/xalan-2.5.D1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/16_templatedetails/lib/saxpath-1.0-FCS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

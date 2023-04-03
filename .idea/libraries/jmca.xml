@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jmca">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/19_jmca/jmca.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

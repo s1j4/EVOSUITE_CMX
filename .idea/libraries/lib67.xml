@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib67">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/107_weka/lib/java-cup.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/107_weka/lib/JFlex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/107_weka/lib/packageManager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

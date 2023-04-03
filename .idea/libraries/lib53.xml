@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib53">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/27_gangup/lib/jogl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/27_gangup/lib/xith-obj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/27_gangup/lib/xith3d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/27_gangup/lib/vecmath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/27_gangup/lib/joal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/27_gangup/lib/skinlf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/27_gangup/lib/js.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/27_gangup/lib/xith-md2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

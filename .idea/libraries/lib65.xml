@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="lib65">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/xpp3_min-1.1.3.4.O.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/wstx-asl-3.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/toplink-essentials-agent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/toplink-essentials.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/xstream-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/jettison-1.0-RC1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/xml-writer-0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/mysql.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/postgresql.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/velocity-dep-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/xstream-benchmark-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/stax-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/stax-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/jdom-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/jlfgr-1_0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/joda-time-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/xom-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/velocity-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/87_jaw-br/lib/cglib-nodep-2.1_3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

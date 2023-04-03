@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pdfsam">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/pdfsam.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

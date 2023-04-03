@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="liferay">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/108_liferay/liferay.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

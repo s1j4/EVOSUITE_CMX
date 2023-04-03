@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib25">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/20_nekomud/lib/cglib-nodep-2.1_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/20_nekomud/lib/slf4j-log4j12-1.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/20_nekomud/lib/jcl-over-slf4j-1.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/20_nekomud/lib/spring.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/20_nekomud/lib/aspectjweaver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/20_nekomud/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/20_nekomud/lib/slf4j-api-1.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/20_nekomud/lib/freemarker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

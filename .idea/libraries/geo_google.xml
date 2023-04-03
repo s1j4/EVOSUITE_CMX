@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="geo-google">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/21_geo-google/geo-google.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/2_a4j/lib/jox116.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/2_a4j/lib/log4j-1.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdbacl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/jdbacl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

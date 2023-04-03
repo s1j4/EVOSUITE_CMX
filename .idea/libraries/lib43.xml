@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib43">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/10_water-simulator/lib/jadeTools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/10_water-simulator/lib/charting-0.94.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/10_water-simulator/lib/iiop.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/10_water-simulator/lib/jade.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/10_water-simulator/lib/log4j-1.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/10_water-simulator/lib/Base64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

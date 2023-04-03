@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jiprof">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/51_jiprof/jiprof.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

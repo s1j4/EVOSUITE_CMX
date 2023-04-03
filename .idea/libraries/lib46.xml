@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib46">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/67_gae-app-manager/lib/commons-codec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/67_gae-app-manager/lib/jtidy-4aug2000r7-dev.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/67_gae-app-manager/lib/httpclient-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/67_gae-app-manager/lib/httpcore-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/67_gae-app-manager/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/67_gae-app-manager/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/67_gae-app-manager/lib/xml-apis-1.0.b2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

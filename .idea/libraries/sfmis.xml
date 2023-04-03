@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sfmis">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/7_sfmis/sfmis.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

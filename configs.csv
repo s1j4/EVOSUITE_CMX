@@ -1,0 +1,4 @@
+configuration_name,user_configuration
+DEFAULT,-Dcrossover_function=SINGLEPOINTRELATIVE
+"CMX,-generateSuite;-Dcrossover_function=COMPLETELYMAPPEDCROSSOVER"
+"COVERAGE,-generateSuite;-Dcrossover_function=COVERAGE "

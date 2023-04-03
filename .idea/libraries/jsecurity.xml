@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsecurity">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/18_jsecurity/jsecurity.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

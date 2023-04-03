@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="echodep">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/70_echodep/echodep.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

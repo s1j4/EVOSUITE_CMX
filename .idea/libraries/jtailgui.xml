@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jtailgui">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/64_jtailgui/jtailgui.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

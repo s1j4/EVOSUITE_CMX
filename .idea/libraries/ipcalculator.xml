@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ipcalculator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/82_ipcalculator/ipcalculator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

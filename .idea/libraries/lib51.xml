@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib51">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/78_caloriecount/lib/swingx-0.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/78_caloriecount/lib/swingx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/78_caloriecount/lib/jlfgr-1_0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

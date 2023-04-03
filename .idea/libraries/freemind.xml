@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="freemind">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/105_freemind/freemind.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

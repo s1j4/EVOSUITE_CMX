@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="openhre">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/75_openhre/openhre.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jnfe">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/6_jnfe/jnfe.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

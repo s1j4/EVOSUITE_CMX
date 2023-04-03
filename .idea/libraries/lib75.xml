@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib75">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/110_firebird/lib/cpptasks.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/110_firebird/lib/connector-api-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/110_firebird/lib/firebird_resources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/110_firebird/lib/jaybird-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/110_firebird/lib/ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/110_firebird/lib/log4j-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/110_firebird/lib/ant-launcher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/110_firebird/lib/providerutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/110_firebird/lib/fscontext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/110_firebird/lib/ant-junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/110_firebird/lib/serializer-2.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/110_firebird/lib/xalan-2.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/110_firebird/lib/antlr-runtime-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/110_firebird/lib/j2ee.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

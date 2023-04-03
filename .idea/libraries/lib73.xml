@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib73">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/93_quickserver/lib/jsse.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/93_quickserver/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/93_quickserver/lib/commons-collections.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/93_quickserver/lib/commons-pool.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/93_quickserver/lib/metouia.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/93_quickserver/lib/commons-digester.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/93_quickserver/lib/commons-beanutils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

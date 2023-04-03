@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib74">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/29_apbsmem/lib/colt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/29_apbsmem/lib/Jmol.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/29_apbsmem/lib/forms-1.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

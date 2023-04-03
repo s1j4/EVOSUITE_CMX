@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="lib76">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/hibernate-annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/ejb3-persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/cglib-2.1_2jboss.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/jbossmq.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/jboss-j2ee.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/hibernate-entitymanager.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/antlr-2.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/dom4j-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/concurrent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/javassist.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/jsch-0.1.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/jboss-aspect-library-jdk50.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/ant-nodeps.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/hibernate3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/jnp-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/jbosssx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/jboss-ejb3-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/jboss-remoting.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/jboss-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/lucene-core-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/jboss-aop-jdk50.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/jboss-transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/15_beanbin/lib/jboss.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

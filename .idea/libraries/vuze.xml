@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vuze">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/104_vuze/vuze.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

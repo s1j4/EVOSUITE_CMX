@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="lib45">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/servlet-api-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/h2-1.2.136.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/avalon-framework-4.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/validation-api-1.0.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/xercesImpl-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/derby-10.7.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/postgresql-8.4-701.jdbc4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/stringtemplate-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/slf4j-api-1.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/logkit-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/hsqldb-1.8.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/antlr-runtime-3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/databene-script-0.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/contiperf-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/connector-api-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/xml-apis-1.3.04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/log4j-1.2.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/databene-commons-0.5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/jaybird-2.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/slf4j-log4j12-1.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/databene-webdecs-0.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/13_jdbacl/lib/poi-3.5-beta6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

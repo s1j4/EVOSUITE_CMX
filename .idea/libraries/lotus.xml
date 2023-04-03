@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lotus">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/45_lotus/lotus.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib49">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/34_sbmlreader2/lib/giny.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/34_sbmlreader2/lib/cytoscape.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/34_sbmlreader2/lib/libsbml-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/34_sbmlreader2/lib/sbml2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/34_sbmlreader2/lib/jsbml-0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

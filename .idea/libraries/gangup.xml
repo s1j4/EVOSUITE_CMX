@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gangup">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/27_gangup/gangup.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

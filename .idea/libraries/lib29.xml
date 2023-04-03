@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="lib29">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/lib/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/lib/mockito-all-1.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/lib/guice-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/lib/guava-12.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/lib/commons-codec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/lib/lombok-0.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/lib/commons-lang-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/lib/jdom-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/lib/httpcore-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/lib/hamcrest-core-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/lib/slf4j-api-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/lib/httpmime-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/lib/httpclient-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/lib/apache-mime4j-0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/23_jwbf/lib/jsr305-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

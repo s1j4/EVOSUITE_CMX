@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="omjstate">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/14_omjstate/omjstate.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

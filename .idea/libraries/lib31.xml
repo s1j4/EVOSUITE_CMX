@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib31">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/62_dom4j/lib/pull-parser-2.1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/62_dom4j/lib/relaxngDatatype-20030807.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/62_dom4j/lib/xercesImpl-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/62_dom4j/lib/xpp3-1.1.4c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/62_dom4j/lib/testng-5.11-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/62_dom4j/lib/jaxen-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/62_dom4j/lib/xsdlib-20030807.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/62_dom4j/lib/xalan-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/62_dom4j/lib/xml-apis-1.0.b2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

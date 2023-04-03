@@ -1,0 +1,73 @@
+<component name="libraryTable">
+  <library name="lib36">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/p8ciops.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/management.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/j2ee.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/p8workplacePresentation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/addressing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/smtp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/juddi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/p8eforms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/peResources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/commons-jxpath-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/builtin_serialization.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/serializer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/xml-apis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/migration.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/pe.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/core_services_client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/mailapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/listener.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/xercesImpl-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/psResources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/commons-fileupload-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/antlr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/p8portal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/jai_windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/aeeforms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/p8workplace.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/wasp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/log4j-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/wsdl_api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/p8cjares.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/p8workplaceResources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/jaas.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/axis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/xalan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/xmlParserAPIs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/commons-discovery.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/jai_core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/Jace.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/p8toolkit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/runner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/appint.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/jai_codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/wsdl4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/p8securitySvlt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/Sandesha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/javaapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/axis-schema.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/commons-collections-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/validator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/commons-lang-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/jaxrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/jaxm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/jetty.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/soap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/saaj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/11_imsmart/lib/psclient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

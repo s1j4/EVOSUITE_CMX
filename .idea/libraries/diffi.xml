@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="diffi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/39_diffi/diffi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

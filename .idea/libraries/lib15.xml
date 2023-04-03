@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="lib15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/spring-aop-3.0.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/spring-beans-3.0.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/spring-expression-3.0.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/spring-mock-2.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/spring-context-3.0.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/logback-classic-0.9.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/objenesis-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/jaxb-api-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/logback-core-0.9.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/jsp-api-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/servlet-api-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/stax-api-1.0-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/jaxb-impl-2.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/spring-core-3.0.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/spring-web-3.0.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/spring-asm-3.0.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/jstl-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/standard-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/71_ext4j/lib/log4j-1.2.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

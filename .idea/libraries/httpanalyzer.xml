@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="httpanalyzer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/32_httpanalyzer/httpanalyzer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

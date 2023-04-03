@@ -1,0 +1,43 @@
+<component name="libraryTable">
+  <library name="lib35">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/jndi-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/exolabcore-0.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/wsdl4j-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/saaj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/commons-io-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/commons-codec-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/apache-camel-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/activemq-all-5.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/commons-net-ftp-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/smtp-1.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/spring-beans-2.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/jt400.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/xercesImpl-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/axis-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/mina-core-1.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/jaxrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/wrapper-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/imap-1.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/spring-context-2.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/jms-1.0.2a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/mailapi-1.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/commons-net-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/commons-discovery-0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/pop3-1.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/dsn-1.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/camel-jms-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/activeio-core-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/fscontext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/openjms-client-0.7.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/org.apache.servicemix.bundles.quartz-1.5.2_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/83_xbus/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

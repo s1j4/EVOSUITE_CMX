@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sugar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/60_sugar/sugar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

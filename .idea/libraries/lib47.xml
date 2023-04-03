@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib47">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/88_jopenchart/lib/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/88_jopenchart/lib/jep.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

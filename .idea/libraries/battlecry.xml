@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="battlecry">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/72_battlecry/battlecry.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dcparseargs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/90_dcparseargs/dcparseargs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

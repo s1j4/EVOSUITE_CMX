@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="inspirento">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/17_inspirento/inspirento.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

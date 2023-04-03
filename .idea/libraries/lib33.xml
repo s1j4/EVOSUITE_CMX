@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib33">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/5_templateit/lib/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/5_templateit/lib/bcprov-jdk14-138.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/5_templateit/lib/bcmail-jdk14-138.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/5_templateit/lib/poi-3.2-FINAL.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/5_templateit/lib/itext-2.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/5_templateit/lib/log4j-1.2.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

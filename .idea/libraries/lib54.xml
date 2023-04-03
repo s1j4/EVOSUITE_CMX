@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib54">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/68_biblestudy/lib/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/68_biblestudy/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="petsoar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/37_petsoar/petsoar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

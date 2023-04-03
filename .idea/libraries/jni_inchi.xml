@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jni-inchi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/25_jni-inchi/jni-inchi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

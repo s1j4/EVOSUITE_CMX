@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="follow">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/41_follow/follow.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="falselight">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/9_falselight/falselight.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="templateit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/5_templateit/templateit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

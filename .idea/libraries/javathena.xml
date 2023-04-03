@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javathena">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/81_javathena/javathena.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

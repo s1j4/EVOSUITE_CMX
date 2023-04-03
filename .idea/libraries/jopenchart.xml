@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jopenchart">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/88_jopenchart/jopenchart.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

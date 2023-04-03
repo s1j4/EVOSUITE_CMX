@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="openjms">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/66_openjms/openjms.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

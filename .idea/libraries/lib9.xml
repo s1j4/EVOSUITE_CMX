@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/58_fps370/lib/vecmath-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/58_fps370/lib/j3d-core-utils-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/58_fps370/lib/MS3DLoader-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/58_fps370/lib/j3d-core-1.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

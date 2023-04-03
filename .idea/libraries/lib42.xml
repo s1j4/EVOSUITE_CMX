@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="lib42">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/52_lagoon/lib/xml-apis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/52_lagoon/lib/xml-apis-ext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/52_lagoon/lib/logkit-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/52_lagoon/lib/isorelax-20050913.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/52_lagoon/lib/lspc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/52_lagoon/lib/batik-transcoder-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/52_lagoon/lib/xmlutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/52_lagoon/lib/lsprt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/52_lagoon/lib/batik.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/52_lagoon/lib/batik-dom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/52_lagoon/lib/batik-css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/52_lagoon/lib/batik-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/52_lagoon/lib/ant-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/52_lagoon/lib/batik-svg-dom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/52_lagoon/lib/fop-0.20.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

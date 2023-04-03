@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib69">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/59_mygrid/lib/wsdl4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/59_mygrid/lib/commons-discovery.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/59_mygrid/lib/axis-ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/59_mygrid/lib/axis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/59_mygrid/lib/log4j-1.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/59_mygrid/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/59_mygrid/lib/jaxrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/59_mygrid/lib/saaj.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

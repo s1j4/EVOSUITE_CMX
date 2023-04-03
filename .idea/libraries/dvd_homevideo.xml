@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dvd-homevideo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/47_dvd-homevideo/dvd-homevideo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

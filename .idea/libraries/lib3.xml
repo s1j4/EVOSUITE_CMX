@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/bcprov-jdk14-144.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/pdfsam-jcmdline-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/jai_imageio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/bcmail-jdk14-144.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/icepdf-core-4.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/jbig2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/jna.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/pdfsam-console-2.3.1e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/jPod.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/jai_core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/isnativec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/iText-2.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/jPodFonts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/looks-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/jPodRenderer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/jaxen-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/jpodcreator-0.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/isfreetype.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/emp4j-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/commons-lang-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/iscwt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/jai_codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/pdfsam-langpack.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/109_pdfsam/lib/isrt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

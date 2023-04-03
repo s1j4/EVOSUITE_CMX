@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="trans-locator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/98_trans-locator/trans-locator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

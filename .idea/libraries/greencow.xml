@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="greencow">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/28_greencow/greencow.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

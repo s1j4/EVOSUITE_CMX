@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nekomud">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/20_nekomud/nekomud.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

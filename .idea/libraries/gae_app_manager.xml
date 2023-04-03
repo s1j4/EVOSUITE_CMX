@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gae-app-manager">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/67_gae-app-manager/gae-app-manager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

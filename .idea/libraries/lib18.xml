@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="lib18">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/14_omjstate/lib/xbean_xpath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/14_omjstate/lib/jstateXbean.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/14_omjstate/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/14_omjstate/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/14_omjstate/lib/resolver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/14_omjstate/lib/xmlbeans-qname.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/14_omjstate/lib/jsr173_1.0_api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/14_omjstate/lib/velocity.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/14_omjstate/lib/xmlpublic.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/14_omjstate/lib/jalopy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/14_omjstate/lib/xbean.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/14_omjstate/lib/commons-lang.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

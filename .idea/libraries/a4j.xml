@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="a4j">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/2_a4j/a4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="lib68">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/jmf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/orataglib_1_0_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/mlibwrapper_jai.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/jaxrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/mediaplayer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/cos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/jaxen-full.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/mssqlserver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/multiplayer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/msutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/book.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/sound.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/commons-discovery-0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/jdbc20_stdext_classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/axis-jaxrpc-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/jai_core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/wsdl4j-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/msbase.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/MeshServer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/jai_codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/customizer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/96_heal/lib/axis-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

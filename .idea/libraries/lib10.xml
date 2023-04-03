@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/104_vuze/lib/swt-carbon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/104_vuze/lib/swt-cocoa.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/104_vuze/lib/apple-extensions.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/104_vuze/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/104_vuze/lib/swt-win32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projects/104_vuze/lib/commons-cli.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xisemele">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/31_xisemele/xisemele.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

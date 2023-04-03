@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jcvi-javacommon">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/92_jcvi-javacommon/jcvi-javacommon.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
